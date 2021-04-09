@@ -10,5 +10,5 @@ If you are interested in knowing more about ARM Templates and how to use them, a
 
 Recently we've introduced a new language for developing ARM templates. The language is named Bicep, and is currently in preview. Bicep and JSON templates offer the same capabilities. You can convert template between the two languages. Bicep provides a syntax that is easier to use for creating templates. For more information, see [What is Bicep (Preview)](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-overview)
 
-In ither hand, if you are more familiar with opensource tools like Terraform to automte deployments on your IaC strategy, you can find a lot of useful resources here: [https://docs.microsoft.com/en-us/azure/developer/terraform/](https://docs.microsoft.com/en-us/azure/developer/terraform/)
+On the other hand, if you are more familiar with opensource tools like Terraform to automte deployments on your IaC strategy, you can find a lot of useful resources here: [https://docs.microsoft.com/en-us/azure/developer/terraform/](https://docs.microsoft.com/en-us/azure/developer/terraform/)
 
